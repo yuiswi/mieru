@@ -1,0 +1,2 @@
+# mieru
+M5StickCPlusとWaterUnitを連携させて植物の水やりを自動化して見える化したい情報をLINE通知するIoTプロジェクト
