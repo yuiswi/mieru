@@ -1,4 +1,4 @@
-# mieru（）
+# mieru
 M5StickC PlusとUnit Wateringを連携させて植物の水やりを自動化して、育成状況などの見える化したい情報をLINE通知するIoTプロジェクト
 
 ## Hardware
