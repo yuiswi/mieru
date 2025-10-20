@@ -11,3 +11,4 @@ M5StickC PlusとUnit Wateringを連携させて植物の水やりを自動化し
 
 ## etc...
 - M5Creativity Contest 2025にエントリー
+- 継続して開発する場合、以前Messaging APIのみでLINE通知は実装できていたので、LINEが推奨するAPIのみで連携して開発する予定
